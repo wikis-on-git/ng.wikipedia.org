@@ -3,7 +3,7 @@
 ----
 <div style="margin:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
 <big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Ndonga language|Ndonga]] language.'''</big><br />
-Number of articles: '''{{NUMBEROFARTICLES}}'''<br />
+Currently, there are '''{{NUMBEROFARTICLES}}''' [[Special:Allpages|articles]] in this Wiki.<br />
 ''If you speak Ndonga, go ahead and start working on the encyclopedia!''<br />
 For more information, see the [[:en:|English Wikipedia]].
 </div>
