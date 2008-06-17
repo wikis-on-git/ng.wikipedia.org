@@ -3,13 +3,13 @@
 ----
 <div style="margin:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
 <big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Ndonga language|Ndonga]] language.'''</big><br />
-Currently, there are '''{{NUMBEROFARTICLES}}''' [[Special:Allpages|articles]] in this Wiki.<br />
+Currently, there are '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' [[Special:Allpages|articles]] in this Wiki.<br />
 ''If you speak Ndonga, go ahead and start working on the encyclopedia!''<br />
 For more information, see the [[:en:|English Wikipedia]].
 </div>
 
 <div style="margin:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''Ce lieu est reservé pour la création d'un Wikipédia en langue [[:fr:Ndonga|Ndonga]].'''</big><br />
+<big>'''Ce lieu est reservé pour la création d'une Wikipédia en langue [[:fr:Ndonga|Ndonga]].'''</big><br />Elle contient actuellement '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' [[Special:Allpages|articles]] et [[Special:ListUsers|{{NUMBEROFUSERS}}]] utilisateurs se sont enregistrés.<br/>
 ''Si vous parlez ndonga, modifiez le texte et commencez à écrire dans l'encyclopédie !''<br />
 Pour d'autres informations, voir le [[:fr:|Wikipédia francophone]].
 </div>
