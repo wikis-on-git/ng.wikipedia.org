@@ -1,4 +1,4 @@
-==Ndonga (Oshiwambo) - Wikipedia==
+'''Ndonga (Oshiwambo) – Wikipedia'''
 
 ----
 <div style="margin:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
@@ -31,7 +31,14 @@ Para mayor información, visite la [[:es:|Wikipedia en español]].
 ''Wenn du diese Sprache sprichst, fang gleich an, an der Enzyklopädie zu arbeiten!''<br />
 Weitere Informationen finden sich in der [[:de:|Deutschsprachigen Wikipedia]].
 </div>
-{| width="60%" style="border:1px solid black"
+<center>
+<div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
+<big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
+* '''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
+</div>
+</center>
+<br>
+{| width="60%" style="border:1px solid black" align=center
 |
 <inputbox>
 type=create
