@@ -31,6 +31,10 @@ Para mayor información, visite la [[:es:|Wikipedia en español]].
 ''Wenn du diese Sprache sprichst, fang gleich an, an der Enzyklopädie zu arbeiten!''<br />
 Weitere Informationen finden sich in der [[:de:|Deutschsprachigen Wikipedia]].
 </div>
+<div class="usermessage"><center>
+[[meta:List of articles all languages should have|List of articles all languages should have]]<br>
+[[Wikipedia:Vital articles|Vital articles (1000)]]<br>
+[[Wikipedia:Vital 100|Vital 100]]
 <center>
 <div style="width:98%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
 <big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
@@ -45,6 +49,7 @@ type=create
 width=45
 </inputbox>
 |}
+</center></div>
 
 <div style="margin:1em;border:1px solid #ffff66;background:#ffffcc;padding:10px">
 <big>'''Other wikis'''</big><br />
