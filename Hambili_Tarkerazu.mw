@@ -26,6 +26,11 @@ Article:{{NUMBEROFARTICLES}}
 |}
 </div>
 
+|- <!-----------------Sister projects----------------->
+| colspan="2" style="border:1px solid #cccccc;background:#f9f9f9;padding:0.5em 1em 0.5em 1em" |
+<div style="background:#faecc8;padding:0.2em 0.5em;text-align:center;font-size:125%;font-weight:bold">Wikimedia Meta-Wiki and its sister projects</div>
+<div style="padding-top:0.5em">{{Sisterprojects}}</div>
+|}
 
 
 
